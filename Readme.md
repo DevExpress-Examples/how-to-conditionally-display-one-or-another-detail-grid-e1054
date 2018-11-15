@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ConditionalDetailRowTemplate/Default.aspx) (VB: [Default.aspx](./VB/ConditionalDetailRowTemplate/Default.aspx))
+* [Default.aspx.cs](./CS/ConditionalDetailRowTemplate/Default.aspx.cs) (VB: [Default.aspx](./VB/ConditionalDetailRowTemplate/Default.aspx))
+<!-- default file list end -->
 # How to conditionally display one or another detail grid
 
 
